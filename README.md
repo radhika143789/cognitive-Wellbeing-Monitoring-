@@ -1,1 +1,2 @@
 # cognitive-Wellbeing-Monitoring-
+In today's high-stress environment, maintaining cognitive wellbeing is challenging. This system offers a proactive solution by continuously tracking key health metrics and providing real-time feedback. Users can detect early signs of cognitive decline or stress, enabling timely interventions. The system helps individuals optimize their daily routines, improve sleep quality, manage stress effectively, and make informed lifestyle choices, thereby enhancing overall mental health and productivity.
